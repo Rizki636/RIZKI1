@@ -1,4 +1,4 @@
-# 🤖AR15BOT🤖
+# 🤖RIZKI1🤖
 BOT WHATSAPP TERMUX ONLY BY ARIS187 ID
 
 ### Alat dan Bahan
@@ -29,7 +29,7 @@ Script ini di modifikasi sama saya sendiri Aris187 ID.
 
 ## Features
 
-| AR15BOT      |                   Feature        |
+| RIZKI1      |                   Feature        |
 | :-----------: | :------------------------------: |
 |       ✅       | Sticker Creator                  |
 |       ✅       | Nulis                            |
@@ -68,10 +68,10 @@ Script ini di modifikasi sama saya sendiri Aris187 ID.
 Ket: Aktiv 24 jam
 
 ## Note
-BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (ARIS187 ID)
+BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (Rizki Ridho Pratama)
 
 ## Sosial Media Admin
-* [`Youtube Admin`](https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg)
-* [`Instagram Admin`](https://instagram.com/_sadboy.ig)
-* [`WhatsApp Admin `](https://wa.me/+6285722553839)
+* [`Youtube Admin`](https://youtube.com/c/26RizkiRidhoPratama)
+* [`Instagram Admin`](https://instagram.com/rizki_ridho636)
+* [`WhatsApp Admin `](https://wa.me/6287840411119)
 
