@@ -1,5 +1,5 @@
 # 🤖RIZKI1🤖
-BOT WHATSAPP TERMUX ONLY BY ARIS187 ID
+BOT WHATSAPP TERMUX ONLY BY 26. Rizki Ridho Pratama
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
