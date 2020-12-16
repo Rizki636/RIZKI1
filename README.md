@@ -22,7 +22,7 @@ Script ini di modifikasi sama saya sendiri 26. Rizki Ridho Pratama.
 > pkg install git && pkg install wget && pkg install ffmpeg && pkg install nodejs
 > apt update && apt upgrade
 > git clone https://github.com/Rizki636/RIZKI1
-> cd AR15BOT
+> cd RIZKI1
 > npm i -g cwebp && npm i -g ytdl && npm i  && npm i got && node index js
 > Tinggal scan kode qr yeee...done
 ```
