@@ -1,8 +1,8 @@
 /*
 * "Jangan modal nama doang bro!!!"
-* (Scriptnya Aris187 ID).
+* (Scriptnya 26. Rizki Ridho Pratama).
 */
-const BotName = '🤖RIZKY RIDHO PRATAMA🤖'; // Nama Bot Whatsapp
+const BotName = '🤖RIZKI RIDHO PRATAMA🤖'; // Nama Bot Whatsapp
 const instagramlu = 'https://instagram.com/rizki_ridho636'; // Nama Instagramlu cok
 const whatsapplu = 'Wa.me/6287840411119'; // Nomor whatsapplu cok
 const kapanbotaktif = 'Tergantung jaringan'; // Kapan bot lu aktif
