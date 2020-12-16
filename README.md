@@ -68,7 +68,7 @@ Script ini di modifikasi sama saya sendiri 26. Rizki Ridho Pratama.
 Ket: Aktiv 24 jam
 
 ## Note
-BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (Rizki Ridho Pratama)
+BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (26. Rizki Ridho Pratama)
 
 ## Sosial Media Admin
 * [`Youtube Admin`](https://youtube.com/c/26RizkiRidhoPratama)
